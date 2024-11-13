@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <sys/time.h>
 
-#define SIZE 10000000
+#define SIZE 10
 #define RANGE 10
 #define BLOCK_SIZE 1024
 
